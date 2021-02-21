@@ -1,7 +1,7 @@
 # Introduction
 <p>Hello! I am Poly, an aspiring Systems Developer.</p>
 
-# Technologies
+# Languages & Tools
 <img src="images/git.png" height=65></img> <img src="images/go.png" height=65></img> <img src="images/c.png" height=65></img> <img src="images/cpp.png" height=65></img> <img src="images/python.png" height=65></img> <img src="images/bash.png" height=65></img> <img src="images/vscode.png" height=65></img> <img src="images/vim.png" height=65></img>
 
 # Currently Learning
