@@ -1,7 +1,7 @@
 # Introduction
 <p>Hello! I am Poly, I do backend development. On top of this, I also have interests for things such as Systems Development, Malware Analysis, Reverse Engineering, and much more!</p>
 
-# Languages & Tools
+# Languages & Skills
 <img src="images/skills.png"/>
 
 # Other Accounts
