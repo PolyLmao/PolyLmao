@@ -1,5 +1,5 @@
 # Introduction
-<p>Hello! I am Poly, I do backend development. On top of this, I also have interests for things such as Systems Development, Malware Analysis, Reverse Engineering, and much more!</p>
+<p>Hello! I am Poly, I do backend web development. On top of this, I also have interests for things such as Systems Development, Malware Analysis, Reverse Engineering, and much more!</p>
 
 # Languages & Skills
 <img src="images/skills.png"/>
