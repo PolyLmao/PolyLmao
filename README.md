@@ -5,8 +5,6 @@
 <img src="images/skills.png"/>
 
 # Other Accounts
-
-<br></br>
 <img src="images/socials.png"/>
 
 # My Most Used Languages List
