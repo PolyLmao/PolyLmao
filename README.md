@@ -4,9 +4,6 @@
 # Languages & Skills
 <img src="images/skills.png"/>
 
-# Other Accounts
-<img src="images/socials.png"/>
-
 # My Most Used Languages List
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyLmao&text_color=daf7dc&title_color=ffffff&bg_color=8e2de2,8e2de2,4a00e0)
 
