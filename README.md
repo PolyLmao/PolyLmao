@@ -2,7 +2,7 @@
 <p>Hello! I am Poly, I do backend web development. On top of this, I also have interests for things such as Systems Development, Malware Analysis, Reverse Engineering, and much more!</p>
 
 # Languages & Skills
-<img src="images/skills.png"/>
+<img src="images/skills&langs.png"/>
 
 # My Most Used Languages List
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyLmao&text_color=daf7dc&title_color=ffffff&bg_color=8e2de2,8e2de2,4a00e0)
